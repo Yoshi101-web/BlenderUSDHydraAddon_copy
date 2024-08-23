@@ -1,0 +1,1 @@
+# BlenderUSDHydraAddon_copy
